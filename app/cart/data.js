@@ -1,4 +1,5 @@
 let age = 20
-let name = 'kim'
-
-export { age, name }
+let familyName = 'choi'
+let name = 'seoyoon'
+let sex = 'female'
+export { age, name, familyName, sex }
