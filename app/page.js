@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <div>
       <div className="container">
-        <h4 className="title"> 애플후레시</h4>
+        <h4 className="title"> 애플후레시 서윤이 코딩 배우기용</h4>
         <p className="title-sub"> by dev {name}</p>
       </div>
     </div>
